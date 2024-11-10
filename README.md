@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Bookmark Landing (React)](https://github.com/user-attachments/assets/e7016d86-60d9-4f1f-be77-effb7c2e4917)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Bookmark Landing](https://bookmark-landing-page-ks.netlify.app)
 
 ## My process
 
