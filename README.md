@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Bookmark Landing](https://www.frontendmentor.io/solutions/bookmark-landing-page-with-react-tailwind-css-6JxYw2cUkY)
 - Live Site URL: [Bookmark Landing](https://bookmark-landing-page-ks.netlify.app)
 
 ## My process
