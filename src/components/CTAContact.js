@@ -32,7 +32,7 @@ export default function CTA_contact() {
         <form
         noValidate
         onSubmit={(e) => submitHandler(e)}
-        className="py-8 sm:py-9 flex flex-col sm:flex-row gap-4 max-w-[440px] mx-auto"
+        className="py-8 sm:py-9 flex flex-col sm:flex-row gap-4 max-w-[468px] mx-auto"
       >
         <label className="sr-only" htmlFor="emailForm">
           Enter your email address

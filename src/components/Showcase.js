@@ -8,12 +8,12 @@ export default function Showcase() {
 
       <article className="text-center lg:text-left">
         <h1 className="text-4xl my-8 lg:text-6xl">A Simple Bookmark Manager</h1>
-        <p>A clean and simple interface to organize your favourite websites. Open a new 
+        <p className="lg:w-[28rem]">A clean and simple interface to organize your favourite websites. Open a new 
         browser tab and see your sites load instantly. Try it for free.</p>
 
         <ul className="mt-10 flex items-center justify-center flex-wrap gap-4 lg:justify-start">
           <li><button className="btn-blue text-white py-2 px-4 rounded shadow-lg hover:opacity-75 border-blue-600 border-2 hover:bg-transparent hover:text-blue-700 transition-all duration-200">Get it on Chrome</button></li>
-          <li><button className="bg-slate-100 text-slate-800 py-2 px-4 rounded shadow-lg hover:opacity-75 hover:border-slate-600 border-2 hover:bg-transparent hover:text-slate-600 transition-all duration-200">Get it on Firefox</button></li>
+          <li><button className="bg-slate-100 text-slate-800 py-2 px-4 rounded shadow-lg hover:opacity-75 hover:border-slate-600 hover:bg-transparent hover:text-slate-600 transition-all duration-200">Get it on Firefox</button></li>
         </ul>
       </article>
 
